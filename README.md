@@ -32,5 +32,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batishavo&layout=compact&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Batishavo&layout=compact&show_icons=true&theme=vue-dark)
 
-
+## Codeforces
+<img src="https://github.com/Batishavo/Batishavo/blob/main/img/codeforces.PNG?raw=true" width="500px"/>
 <!--*Batishavo/Batishavo* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
