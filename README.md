@@ -20,9 +20,11 @@
 
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="100px"/> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="95px"/>
 
-## technologies
+//## technologies
 
-<img src="http://www.dannypid.com/wp-content/uploads/2020/06/unity-icon-png-3.png" width="80px"/>   <img src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo.png" width="80px"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" width="80px"/>
+//<img src="http://www.dannypid.com/wp-content/uploads/2020/06/unity-icon-png-3.png" width="80px"/>   
+//<img src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo.png" width="80px"/>   
+//<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" width="80px"/>
 
 
 ## GitHub stats
