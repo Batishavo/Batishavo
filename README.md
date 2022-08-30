@@ -32,7 +32,7 @@
 [![Batishavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batishavo&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api?username=Batishavo&show_icons=true&theme=vue-dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batishavo&layout=compact&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Batishavo&layout=compact&show_icons=true&theme=vue-dark)
+
 
 
 <!--*Batishavo/Batishavo* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
