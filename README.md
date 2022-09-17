@@ -9,10 +9,10 @@
 
 📚I am studing computacional sistems in the ITSUR Guanajauao, México<br>
 🕹I love videogames, i like overwatch, pokemon, left 4 dead, smash bros, god of war,i like pc, playstation and nintendo<br>
-## Programming Languages
+<!--## Programming Languages
 <img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="80px"/> <img src="https://freevectorlogo.net/wp-content/uploads/2013/03/java-eps-vector-logo-400x400.png" width="100px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="75px"/>
 
-## Back-end skills
+<!--## Back-end skills
 
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="170px"/><img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="100px"/>
 
@@ -29,7 +29,8 @@
 
 ## GitHub stats
 
-[![Batishavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batishavo&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api?username=Batishavo&show_icons=true&theme=vue-dark)
+[![Batishavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batishavo&show_icons=true&theme=vue-dark)]
+<!--(https://github-readme-stats.vercel.app/api?username=Batishavo&show_icons=true&theme=vue-dark)
 
 <!--*Batishavo/Batishavo* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batishavo&layout=compact&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Batishavo&layout=compact&show_icons=true&theme=vue-dark)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batishavo&layout=compact&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Batishavo&layout=compact&show_icons=true&theme=vue-dark)-->
